@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Echooooooooo
-        run: echo "Hello world"
+      - name: Echo
+        run: echoooooooo "Hello world"
         shell: bash
 
       - name: Display the path
